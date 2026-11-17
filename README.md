@@ -1,7 +1,6 @@
-https://engfatiimah.github.io
 <div align="center">
 
-<a href="https://engfatiimah.github.io">
+<a href="https://engfatiimah.github.io/Fatimah-s-Portfolio-/">
   <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=30&duration=2800&pause=900&color=1D5C63&center=true&vCenter=true&width=640&lines=Fatimah+Bin+Mohammed;Flutter+Developer+%C2%B7+UI%2FUX+Designer;Designed+and+built+from+scratch." alt="Fatimah Bin Mohammed"/>
 </a>
 
@@ -9,11 +8,15 @@ https://engfatiimah.github.io
 
 <br/><br/>
 
-<a href="https://engfatiimah.github.io"><img src="https://img.shields.io/badge/Visit_the_Site-1D5C63?style=for-the-badge" alt="Visit the Site"/></a>
+<a href="https://engfatiimah.github.io/Fatimah-s-Portfolio-/"><img src="https://img.shields.io/badge/Visit_the_Site-1D5C63?style=for-the-badge" alt="Visit the Site"/></a>
 <a href="https://www.linkedin.com/in/fatimah-bin-mohammed-321552325"><img src="https://img.shields.io/badge/LinkedIn-D98C6A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:Fatimahbinmh@gmail.com"><img src="https://img.shields.io/badge/Email-17292C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
-<br/><br/>
+<br/>
+
+**[engfatiimah.github.io/Fatimah-s-Portfolio-](https://engfatiimah.github.io/Fatimah-s-Portfolio-/)**
+
+<br/>
 
 <img src="https://github.com/user-attachments/assets/465b4007-19ea-40b5-84cf-a9f35c48e7d2" width="100%" alt=""/>
 
@@ -56,5 +59,9 @@ One place for my projects, achievements, certificates, and volunteering work. It
 <br/><br/>
 
 <sub>Designed and developed by <b>Fatimah Bin Mohammed</b> · 2026</sub>
+
+<br/>
+
+<a href="https://engfatiimah.github.io/Fatimah-s-Portfolio-/"><b>Visit the Portfolio →</b></a>
 
 </div>
