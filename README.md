@@ -12,11 +12,6 @@
 <a href="https://www.linkedin.com/in/fatimah-bin-mohammed-321552325"><img src="https://img.shields.io/badge/LinkedIn-D98C6A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:Fatimahbinmh@gmail.com"><img src="https://img.shields.io/badge/Email-17292C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
-<br/>
-
-**
-
-<br/>
 
 <img src="https://github.com/user-attachments/assets/465b4007-19ea-40b5-84cf-a9f35c48e7d2" width="100%" alt=""/>
 
